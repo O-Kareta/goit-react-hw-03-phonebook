@@ -1,0 +1,17 @@
+.input {
+  padding: 8px;
+  width: 415px;
+  line-height: 1.8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.input:hover,
+.input:focus,
+.input:active {
+  outline: none;
+  background-color: #eff3f6;
+}
